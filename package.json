@@ -1,12 +1,28 @@
 {
   "name": "primary",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joecliffordofficial/employee_tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joecliffordofficial/employee_tracker/issues"
+  },
+  "homepage": "https://github.com/joecliffordofficial/employee_tracker#readme",
+  "description": "",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
+    "dotenv": "^10.0.0",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0-beta.1"
+  }
 }
