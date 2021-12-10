@@ -31,6 +31,8 @@ Enjoy!
 
 [Repository](https://github.com/joecliffordofficial/employee_tracker)
 
+<a name = "video"></a>
+
 [Video]()
 
 <a name = "images"></a>
