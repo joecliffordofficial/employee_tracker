@@ -28,6 +28,6 @@ VALUES
     ('Kevin', 'Barker', 3, 1),
     ('Lucian', 'Pizzano', 4, 4), 
     ('Nick', 'Lulka', 5, 3), 
-    ('Nick', 'Lulka', 6, 3), 
+    ('Joey', 'Darby', 6, 3), 
     ('Mac', 'Miller', 7, 1), 
     ('Gerald', 'Gillum', 8, 7); 
