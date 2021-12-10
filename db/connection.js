@@ -1,16 +1,12 @@
-const Sequelize = require("sequelize");
+const mysql = require("mysql2");
 require('dotenv').config();
 
-const connection = new Sequelize(
-  process.env.DB_NAME,
-  process.env.DB_USER,
-  process.env.DB_PASS, 
-  {
-    host: 'localhost',
-    dialect: 'mysql',
-    port: 3001
-  }
-);
+const connection = mysql.createConnection({
+  host: "localhost",
+  user: "root",
+  password: process.env.DB_PASS,
+  database: "employees"
+});
 
 connection.connect(function (err) {
   if (err) throw err;
