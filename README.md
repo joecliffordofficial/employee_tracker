@@ -37,8 +37,8 @@ Enjoy!
 
 ## Images
 
-<img src = >
-<img src = >
+<img src = ./media/images/employeeTrackerScreenShot1.png>
+<img src = ./media/images/employeeTrackerScreenShot2.png>
 
 
 <a name = "contact"></a>
