@@ -5,7 +5,7 @@ const connection = mysql.createConnection({
   host: "localhost",
   user: process.env.DV_USER,
   password: process.env.DB_PASS,
-  database: process.env.DB_NAME
+  database: process.env.DB_NAME,
 });
 
 connection.connect(function (err) {
