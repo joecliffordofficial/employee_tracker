@@ -33,7 +33,7 @@ Enjoy!
 
 <a name = "video"></a>
 
-[Video]()
+[Video](https://joecliffordofficial.github.io/employee_tracker/)
 
 <a name = "images"></a>
 
