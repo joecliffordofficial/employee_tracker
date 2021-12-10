@@ -48,6 +48,7 @@ Enjoy!
 Feel free to reach out to me if you have any questions or if you have anything you think should be added to the program!
 
 You can reach me via my [LinkedIn](https://www.linkedin.com/in/joe-clifford/)
+
 Or on my [GitHub](https://github.com/joecliffordofficial)
 
 Thanks!
